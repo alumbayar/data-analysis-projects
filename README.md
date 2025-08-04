@@ -6,12 +6,11 @@ Welcome to my portfolio of data analysis and data science projects! This reposit
 
 ### Project 1: Historical Stock/Revenue Analysis and Dashboard
 
-* **Description**: This project involves the analysis of historical stock and revenue data for various companies. The project culminates in a dashboard that visualizes key financial metrics and trends over time.
-* **Technologies Used**: Python (Pandas, Matplotlib), Jupyter Notebook, ... (Add other libraries you used)
-* **Key Insights**: Summarize the main findings or what the dashboard highlights.
-* **Files**: `stock_revenue_analysis.ipynb`, `data/` (if you have a data folder), etc.
-* **Link**: [View Notebook](link-to-your-notebook-on-github)
-
+* **Description**: This project extracts and visualizes historical stock and revenue data for Tesla and GameStop. The data is used to create a combined graph showing the historical share price and historical revenue for each company, which serves as a basic dashboard for data-driven decisions.
+* **Technologies Used**: Python, Jupyter Notebook, Pandas, Matplotlib, yfinance, requests, BeautifulSoup, Plotly.
+* **Key Insights**: The notebook analyzes and visualizes the relationship between historical stock prices and revenue for both Tesla and GameStop. It demonstrates how to extract data from financial APIs and web-scrape a website, and then plot the data.
+* **Files**: `stock_data_analysis_dashboard.ipynb`
+* **Link**: [View Notebook](https://github.com/alumbayar/data-analysis-projects/blob/main/historical_stock_analysis/stock_data_analysis_dashboard.ipynb)
 ---
 
 
